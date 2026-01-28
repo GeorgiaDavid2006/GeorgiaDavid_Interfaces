@@ -9,10 +9,12 @@ namespace GeorgiaDavid_Interfaces
     class Player
     {
         Position _playerPosition;
+        ConsoleColor _color;
 
-        public Player()
+        public Player(Position playerPosition, ConsoleColor color)
         {
-
+            _playerPosition = playerPosition;
+            _color = color;
         }
     }
 }

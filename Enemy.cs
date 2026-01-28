@@ -8,6 +8,13 @@ namespace GeorgiaDavid_Interfaces
 {
     class Enemy
     {
+        Position _enemyPosition;
+        ConsoleColor _color;
 
+        public Enemy(Position enemyPosition, ConsoleColor color)
+        {
+            _enemyPosition = enemyPosition;
+            _color = color;
+        }
     }
 }

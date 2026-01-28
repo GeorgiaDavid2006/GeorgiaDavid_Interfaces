@@ -9,21 +9,23 @@ namespace GeorgiaDavid_Interfaces
 {
     internal class Program
     {
-        struct Position
-        {
-            public Position(int x, int y)
-            {
-                X = x;
-                Y = y;
-            }
-            
-            public int X { get; }
-            public int Y { get; }
-        }
+        
         
         static void Main(string[] args)
         {
             
         }
+    }
+
+    struct Position
+    {
+        public Position(int x, int y)
+        {
+            X = x;
+            Y = y;
+        }
+
+        public int X { get; set; }
+        public int Y { get; set; }
     }
 }

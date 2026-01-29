@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\ProbuilderCity\\GeorgiaDavid_Interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE0AF4A-9645-4896-8B2A-AFFAFA129C4D}|GeorgiaDavid_Interfaces.csproj|c:\\users\\georg\\probuildercity\\georgiadavid_interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE0AF4A-9645-4896-8B2A-AFFAFA129C4D}|GeorgiaDavid_Interfaces.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE0AF4A-9645-4896-8B2A-AFFAFA129C4D}|GeorgiaDavid_Interfaces.csproj|c:\\users\\georg\\probuildercity\\georgiadavid_interfaces\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE0AF4A-9645-4896-8B2A-AFFAFA129C4D}|GeorgiaDavid_Interfaces.csproj|solutionrelative:enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE0AF4A-9645-4896-8B2A-AFFAFA129C4D}|GeorgiaDavid_Interfaces.csproj|c:\\users\\georg\\probuildercity\\georgiadavid_interfaces\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE0AF4A-9645-4896-8B2A-AFFAFA129C4D}|GeorgiaDavid_Interfaces.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\ProbuilderCity\\GeorgiaDavid_Interfaces\\Enemy.cs",
+              "RelativeDocumentMoniker": "Enemy.cs",
+              "ToolTip": "C:\\Users\\georg\\ProbuilderCity\\GeorgiaDavid_Interfaces\\Enemy.cs",
+              "RelativeToolTip": "Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T23:38:53.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\ProbuilderCity\\GeorgiaDavid_Interfaces\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\georg\\ProbuilderCity\\GeorgiaDavid_Interfaces\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T23:38:49.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\ProbuilderCity\\GeorgiaDavid_Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\georg\\ProbuilderCity\\GeorgiaDavid_Interfaces\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T23:38:43.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

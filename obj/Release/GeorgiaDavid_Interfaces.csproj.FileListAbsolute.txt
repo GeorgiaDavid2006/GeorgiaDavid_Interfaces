@@ -1,0 +1,7 @@
+C:\Users\georg\ProbuilderCity\GeorgiaDavid_Interfaces\bin\Release\GeorgiaDavid_Interfaces.exe.config
+C:\Users\georg\ProbuilderCity\GeorgiaDavid_Interfaces\bin\Release\GeorgiaDavid_Interfaces.exe
+C:\Users\georg\ProbuilderCity\GeorgiaDavid_Interfaces\bin\Release\GeorgiaDavid_Interfaces.pdb
+C:\Users\georg\ProbuilderCity\GeorgiaDavid_Interfaces\obj\Release\GeorgiaDavid_Interfaces.csproj.AssemblyReference.cache
+C:\Users\georg\ProbuilderCity\GeorgiaDavid_Interfaces\obj\Release\GeorgiaDavid_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\georg\ProbuilderCity\GeorgiaDavid_Interfaces\obj\Release\GeorgiaDavid_Interfaces.exe
+C:\Users\georg\ProbuilderCity\GeorgiaDavid_Interfaces\obj\Release\GeorgiaDavid_Interfaces.pdb
